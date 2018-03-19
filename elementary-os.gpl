@@ -1,5 +1,5 @@
 GIMP Palette
-Name: elementary OS Palette
+Name: elementary OS
 Columns: 3
 #
 122   0   0     Strawberry 900
@@ -32,6 +32,11 @@ Columns: 3
 122  54 177     Grape 500
 173 101 214     Grape 300
 226 159 252     Grape 100
+ 61  33  27     Cocoa 900
+ 87  57  45     Cocoa 700
+113  83  68     Cocoa 500
+138 113  94     Cocoa 300
+163 144 124     Cocoa 100
  85  87  97     Silver 900
 126 128 135     Silver 700
 171 172 174     Silver 500
